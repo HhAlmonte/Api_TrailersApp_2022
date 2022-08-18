@@ -1,0 +1,25 @@
+* Crear metodos CRUD
+	
+	* Metodo CREAR
+
+		* Crear la interfaz - Hecho
+		* Implementar los metodos de la interfaz en la logica - Hecho
+		* Bindear la interfaz con la logica - Hecho
+		* Crear la logica del metodo - Hecho
+		* Implementar metodoe
+
+	* Metodo Editar
+		
+		* Crear el metodo en la interfaz - Hecho
+		* Implementar metodo en la logica - Hecho
+		* Implementar metodo en el controlador - Hecho
+
+	*Metodo Eliminar
+
+		* Crear el metodo en la interfaz - Hecho
+		* Implementar metodo en la logica - Hecho
+		* Implementar metodo en el controlador - Hecho
+
+* Crear modelo Identity
+
+	* Crear la entidad Usuario y hacer que herede las propiedades de Identity
