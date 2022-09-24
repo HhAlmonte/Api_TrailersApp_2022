@@ -12,6 +12,6 @@
 
 <h2> Descripción </h2>
 
-Este proyecto le permite al usuario poder registrase e iniciar sesión; luego de haber iniciado sesión le permitirá publicar un tráiler de la película que este desee. También le permite al usuario realizar un mantenimiento del contenido publicado.
+Este proyecto le permite al usuario poder registrarse e iniciar sesión; luego de haber iniciado sesión le permitirá publicar un tráiler de la película que este desee. También le permite al usuario realizar un mantenimiento del contenido publicado.
 
 * Proximamente haré su implementación con un front-end
